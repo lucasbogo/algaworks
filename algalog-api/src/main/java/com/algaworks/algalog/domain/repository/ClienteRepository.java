@@ -11,7 +11,7 @@ import com.algaworks.algalog.domain.model.Cliente;
 @Repository
 public interface ClienteRepository extends JpaRepository<Cliente, Long> {
 	
-	List<Cliente> findByNome(String nome); //Método para busca por nome extato
+	List<Cliente> findByNome(String nome); //Método para busca por nome exato
 	List<Cliente> findByNomeContaining(String nome); //Método para busca por nome contendo uma string.
 	Optional<Cliente>  findByEmail(String email);
 
