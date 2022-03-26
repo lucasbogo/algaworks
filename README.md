@@ -9,3 +9,4 @@ API desenvolvida para o curso da algaworks.
 - Spring Tool Suite
 - java 17.0.1 2021-10-19 LTS
 -  Java(TM) SE Runtime Environment (build 17.0.1+12-LTS-39)
+-  PostMan
