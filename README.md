@@ -4,7 +4,7 @@
 API desenvolvida para o curso da algaworks.
 -------------------------------------------
 
-# Ferramentas utilizadas nesse projeto:
+### Ferramentas utilizadas nesse projeto:
 
 - Spring Tool Suite
 - java 17.0.1 2021-10-19 LTS
