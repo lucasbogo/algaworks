@@ -3,6 +3,8 @@
 
 API desenvolvida para o curso da algaworks.
 -------------------------------------------
+<br>
+**API REST** para genrenciar entregas de produtos.
 
 ### Ferramentas utilizadas nesse projeto:
 
